@@ -1,6 +1,7 @@
 Hey there! 0utrunner here! 🚗🏁
 
 Former sailor, now software engineer with my main language being Javascript (and Python).
+
 When I'm not busy coding I'm playing video games or lifting heavy weight.
 
 I think my repos will tell you everything else there's to know about me! 🤓
