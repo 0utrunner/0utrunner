@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0utrunner
+- ✌🏾 Hi, I’m @0utrunner
 - 👀 I’m interested in Games, Coding, and LIFTING HEAVY
 - 🌱 I’m currently learning Javascript and Python
 
